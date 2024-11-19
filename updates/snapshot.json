@@ -2,22 +2,22 @@
  "signatures": [
   {
    "keyid": "a6a742c2e1f83ebceb627ce3480fd5c374466d6185b8ff2944ddd81827e93fef",
-   "sig": "d91aaad202c2dd8b460942227e195f520ba2bbb295def7c05018e1af7f2ea1187840b9783b2bdc91cb044c056c7c33a82e74bdf81de28bb03e6f76f05c6ec002"
+   "sig": "3554349d00daef9b3313e2bcd1e40c706680daa97372665b766baf35852dbfd0cbc460d7d6bc3157b0cf79ef26b2a6173bb5b50dcdab0434954b2707503a1509"
   },
   {
    "keyid": "f48ef76355f2a7f97b3a00a8e33542e1218100c2c863f39f9ebb54bfe488f223",
-   "sig": "0e8a362ae948e72d3d00d169bb35f398d770549282d35924a2f0271be8e333cffa3366a488ccc63a7484d6964b5e39e196819f055aaf6cb3ba7b2be9bd5ec306"
+   "sig": "01d6e6b51606d2773ca16cec7f3675a0ed68a2033a449affd9669dc16a9d9dafea2f4addbbed3d8b9aeb2b446cdccf19b7ff0f6b67aeca1865866ddb43ac3c02"
   }
  ],
  "signed": {
   "_type": "snapshot",
-  "expires": "2024-11-20T07:50:31Z",
+  "expires": "2024-11-20T08:48:01Z",
   "meta": {
    "targets.json": {
-    "version": 3
+    "version": 1
    }
   },
   "spec_version": "1.0.31",
-  "version": 3
+  "version": 1
  }
 }
