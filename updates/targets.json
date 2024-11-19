@@ -2,16 +2,16 @@
  "signatures": [
   {
    "keyid": "f48ef76355f2a7f97b3a00a8e33542e1218100c2c863f39f9ebb54bfe488f223",
-   "sig": "8ffbf1dda4c215975e0035df4ab964c5508bf1d5d78728935a059e161e0e9feb6192bcf2853845ef88d267c281b5e28bf1f9569221f71a80f4095ced6796170c"
+   "sig": "cb3c79d7cb0f8206ae25407b471eb84d611020c28d78a25264ccc5f2676261105b2395f0f89e1c69e8a3451c6accbf70e645f31024923c131927ec85f6563809"
   },
   {
    "keyid": "13a0ee4a8b835d40008265dcd865405285698d061da05c278380666306885165",
-   "sig": "c2d7a7f34fc9c20bbe8ef69f5087fefb1c34a338c22587ba323d5decc726bc2e968c19e618c428aa75a58c030d26d84ed3f5459472a45345389cfe0776c07104"
+   "sig": "562f54047a3393e2c8bbad52e23132cbaecc1b6ad7ea6e2c6f3df158f862c4891ca5ced6bca8a55138dd07ac18384058f813575da5f36610894013ec45d8b30c"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2024-11-20T06:55:17Z",
+  "expires": "2024-11-20T07:50:31Z",
   "spec_version": "1.0.31",
   "targets": {
    "p1.py-1.0.0.tar.gz": {
@@ -25,8 +25,20 @@
      "sha256": "37c730120ef9105ae0806802b98e010f3aab606e5d63af5b85c960f004e8557c"
     },
     "length": 7083039
+   },
+   "p1.py-1.0.1.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "f336e6dd445aa702b03a1563df24f43c2d55227f5d5ccb2ff92ab53af62e57aa"
+    },
+    "length": 7083101
    }
   },
-  "version": 2
+  "version": 3
  }
 }
